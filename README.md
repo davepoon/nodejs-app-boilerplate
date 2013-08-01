@@ -5,7 +5,6 @@ A nodejs app boilerplate using express.js, jade and stylus.
 
 ## Quick Start
 
-$ npm install
 
 Install dependencies:
 
