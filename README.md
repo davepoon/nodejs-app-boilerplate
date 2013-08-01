@@ -10,6 +10,8 @@ Install dependencies:
 
     $ npm install
 
- Start the server:
+Start the server:
 
     $ node app.js
+
+Navigate to http://localhost:3000 in your browser.
