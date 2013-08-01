@@ -3,10 +3,12 @@
   "version": "0.0.1",
   "private": "true",
   "dependencies": {
-    "express": "3.0.0alpha4",
+    "express": "*",
     "jade": "*",
     "stylus": "*",
     "nib": "*"
   },
-  "main": "app.js"
+  "main": "app.js",
+  "devDependencies": {
+  }
 }
